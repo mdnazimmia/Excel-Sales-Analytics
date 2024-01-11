@@ -4,6 +4,7 @@
 - **Project objective:** 
 
     **1.** Create a _[customer performance report](https://github.com/mdnazimmia/Excel-Sales-Analytics/blob/main/customer%20performance%20report.pdf)_
+  
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/mdnazimmia/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target.pdf)_
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
@@ -28,16 +29,19 @@
 - **Role of reports:** Align financial planning with strategic goals Instill confidence in the organization's financial outlook.
 
 
-## Technical & Soft Skills:
-- [x]	Proficiency in ETL methodology (Extract, Transform, Load).
-- [x]	Skills to generate a date table using Power Query.
-- [x]	Ability to derive fiscal months and quarters.
-- [x]	Establishing data model relationships with Power Pivot.
-- [x]	Proficiency in incorporating supplementary data into an existing data model.
-- [x]	Utilizing DAX to create calculated columns.
+# Skills Overview:
 
-## Soft Skills:
-- [x]	Refined understanding of Sales & Finance Reports
-- [x]	Designing user-centric reports with empathy in mind.
-- [x]	Optimization of report generation through meticulous fine-tuning.
-- [x]	Developing a systematic approach to devising a report building plan.
+## Technical Proficiency:
+- [x] Demonstrated expertise in ETL methodology (Extract, Transform, Load).
+- [x] Proficient in creating a date table using Power Query.
+- [x] Ability to derive fiscal months and quarters effectively.
+- [x] Successful establishment of data model relationships using Power Pivot.
+- [x] Proficiency in integrating supplementary data into existing data models.
+- [x] Utilized DAX to create insightful calculated columns.
+
+## Soft Skills Excellence:
+- [x] In-depth understanding of Sales & Finance Reports.
+- [x] Skillful design of user-centric reports, incorporating empathy.
+- [x] Optimized report generation through meticulous fine-tuning.
+- [x] Developed and implemented a systematic approach to building comprehensive reports.
+
